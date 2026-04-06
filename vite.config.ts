@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   // Set base URL for GitHub Pages deployment
   // Replace 'recipe-finder-app' with your repository name
-  base: '/recipe-finder-app/',
+  base: '/recipe-finder-update/',
   
   plugins: [
     // The React and Tailwind plugins are both required for Make, even if
